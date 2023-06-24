@@ -1,1 +1,1 @@
-# Exploring-Power-Grid-Frequency-Statistical-Insights
+This code is designed to reproduce the results from the paper "Exploring Power Grid Frequency: Statistical Insights" and can be used to test bimodality, linearity, and Markovian behavior for your own data.
